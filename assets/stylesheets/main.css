@@ -1,0 +1,21 @@
+/*
+  ========================================
+  carousel
+  ========================================
+*/
+.carousel-inner > .item > img{
+       /*width:640px;*/
+       width: 100%;
+       /*height:360px;*/
+       height: 100%;
+     }
+
+.navbar-header a  {
+  font-size: 30px;
+  font-style: verdana;
+}
+body {
+  background-color: green;
+   background: #cbe2c1;
+   font-family: "Roboto Condensed", Times, serif;
+}
